@@ -116,14 +116,15 @@ void n9()
   digitalWrite(dp,LOW);
 }
 
-void setup() 
-{
-    pinMode(a, OUTPUT);
-    pinMode(b, OUTPUT);
-    pinMode(c, OUTPUT);
-    pinMode(d, OUTPUT);
-    pinMode(e, OUTPUT);
-    pinMode(f, OUTPUT);
-    pinMode(g, OUTPUT);
-    pinMode(dp, OUTPUT);
-}
+//per ora va così
+//void setup() 
+//{
+//    pinMode(a, OUTPUT);
+//    pinMode(b, OUTPUT);
+//    pinMode(c, OUTPUT);
+//    pinMode(d, OUTPUT);
+//    pinMode(e, OUTPUT);
+//    pinMode(f, OUTPUT);
+//    pinMode(g, OUTPUT);
+//    pinMode(dp, OUTPUT);
+//}
