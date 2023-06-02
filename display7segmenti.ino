@@ -3,8 +3,7 @@
 
 int cicli = 0;
 
-
-
+//manca il setup
 
 void loop()
 {
