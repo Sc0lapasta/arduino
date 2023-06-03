@@ -12,5 +12,5 @@ void loop()
   lcd.setCursor(0, 0);
   lcd.print("02.06.2023");
   lcd.setCursor(0, 1);
-  lcd.print("Luca gay");
+  lcd.print("asdasd");
 }
