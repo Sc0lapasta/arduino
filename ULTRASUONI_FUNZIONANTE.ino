@@ -1,8 +1,4 @@
-/*
-  Lezione 2 Difficile: Il sensore ad Ultrasuoni
-  Creato il 12 Mar 2019
-  da Andrea Primavera
-*/
+//preso da: https://www.arduinofacile.it/2019/03/12/lezione-difficile-2-il-sensore-a-ultrasuoni/
 const int pinTrigger = 9;
 const int pinEcho    = 10;
  
